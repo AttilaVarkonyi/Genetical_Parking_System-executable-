@@ -1,4 +1,3 @@
-# Genetical_Parking_System-executable-
 # Genetical_Parking_System
 # Felhasználói dokumentáció
 A felhasználói dokumentáció lényege, hogy leírást adjunk a kész játék futtatásának módjáról, továbbá, hogy a felhasználó tisztában legyen a legfontosabb tudnivalókkal a szoftverrel kapcsolatban, illetve a játék felülettel.
